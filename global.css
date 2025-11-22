@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background: #000000;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+}
+
+:root {
+  --primary-gradient: linear-gradient(90deg, #c27aff 0%, #fb64b6 100%);
+
+  --pink-gradient: linear-gradient(45deg, rgba(89, 22, 139, 0.3) 0%, rgba(134, 16, 67, 0.3) 100%);
+  --orange-gradient: linear-gradient(45deg, rgba(126, 42, 12, 0.3) 0%, rgba(130, 24, 26, 0.3) 100%);
+  --blue-gradient: linear-gradient(45deg, rgba(28, 57, 142, 0.3) 0%, rgba(16, 78, 100, 0.3) 100%);
+  --green-gradient: linear-gradient(45deg, rgba(13, 84, 43, 0.3) 0%, rgba(0, 79, 59, 0.3) 100%);
+
+  --pink-border-color: rgba(134, 16, 67, 0.3);
+  --orange-border-color: rgba(255, 105, 0, 0.3);
+  --blue-border-color: rgba(43, 127, 255, 0.3);
+  --green-border-color: rgba(0, 201, 80, 0.3);
+
+  --primary-text-color: #ffffff;
+  --secondary-text-color: #99a1af;
+  --accent-text-color: #c27aff;
+
+  --card-background-color: #101828;
+
+  --error-text-color: #ff6b6b;
+  --error-background-color: rgba(255, 107, 107, 0.1);
+  --error-border-color: rgba(255, 107, 107, 0.3);
+
+  --transparent-border-color: rgba(255, 255, 255, 0.1);
+}
+
+.gradient-text {
+  background: var(--primary-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}

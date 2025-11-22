@@ -1,0 +1,577 @@
+{
+  "users": [
+    {
+      "id": "4215",
+      "movies": [
+        {
+          "createdAt": "2025-11-22T16:50:25.466Z",
+          "title": "The Hobbit: An Unexpected Journey",
+          "year": "2012",
+          "plot": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home and the gold within it from the dragon Smaug.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_SX300.jpg",
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "imdbID": "tt0903624",
+          "rating": 4
+        },
+        {
+          "createdAt": "2025-11-21T16:50:32.157Z",
+          "title": "Wicked",
+          "year": "2024",
+          "plot": "Elphaba, a young woman ridiculed for her green skin, and Galinda, a popular girl, become friends at Shiz University in the Land of Oz. After an encounter with the Wonderful Wizard of Oz, their friendship reaches a crossroads.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Fantasy",
+            "Musical",
+            "Romance"
+          ],
+          "imdbID": "tt1262426",
+          "rating": 4
+        },
+        {
+          "createdAt": "2025-11-20T16:50:56.379Z",
+          "title": "The Lord of the Rings: The Fellowship of the Ring",
+          "year": "2001",
+          "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+          ],
+          "imdbID": "tt0120737",
+          "rating": 4
+        },
+        {
+          "createdAt": "2025-11-19T16:51:17.961Z",
+          "title": "Spider Man: Lost Cause",
+          "year": "2014",
+          "plot": "Peter Parker a lone child discovers that his parents were in a horrifying plot to make mankind change. getting bitten by his fathers invention he develops super powers to tries to find answers to his whole life, try and juggle a r...",
+          "poster": "https://m.media-amazon.com/images/M/MV5BZGQzZjY1MGItYmVjZS00ZmFkLWIwYzYtZDg4ODBjYzE5NzU2XkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "imdbID": "tt2803854",
+          "rating": 5
+        },
+        {
+          "createdAt": "2025-11-18T16:51:31.390Z",
+          "title": "The Avengers",
+          "year": "2012",
+          "plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "imdbID": "tt0848228",
+          "rating": 5
+        },
+        {
+          "createdAt": "2025-11-23T16:52:14.557Z",
+          "title": "Peixonauta: Agente Secreto Da O.s.t.r.a.",
+          "year": "2012",
+          "plot": "N/A",
+          "poster": "https://m.media-amazon.com/images/M/MV5BY2EzMThiYjAtODEzOS00NWFjLThjNjctNDRiZjI2NTA5YWI5XkEyXkFqcGdeQXVyNTg5NjMwODg@._V1_SX300.jpg",
+          "genres": [
+            "Animation",
+            "Adventure",
+            "Family"
+          ],
+          "imdbID": "tt5235162",
+          "rating": 3
+        },
+        {
+          "createdAt": "2025-11-23T16:53:53.124Z",
+          "title": "Blade Runner",
+          "year": "1982",
+          "plot": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BOWQ4YTBmNTQtMDYxMC00NGFjLTkwOGQtNzdhNmY1Nzc1MzUxXkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "imdbID": "tt0083658",
+          "rating": 3
+        },
+        {
+          "createdAt": "2025-11-23T16:54:41.095Z",
+          "title": "101 Dalmatians",
+          "year": "1996",
+          "plot": "An evil high-fashion designer plots to steal dalmatian puppies in order to make an extravagant fur coat but creates an extravagant mess instead.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BOTA5MjAzZWYtZmQxMC00NWE0LWJkNWMtMzczNjg3ZTM1ZGRiXkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Crime"
+          ],
+          "imdbID": "tt0115433",
+          "rating": 2
+        },
+        {
+          "createdAt": "2025-11-23T16:56:07.971Z",
+          "title": "Blade Runner 2049",
+          "year": "2017",
+          "plot": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SX300.jpg",
+          "genres": [
+            "Action",
+            "Drama",
+            "Mystery"
+          ],
+          "imdbID": "tt1856101",
+          "rating": 3
+        },
+        {
+          "createdAt": "2025-11-23T16:56:47.231Z",
+          "title": "Indiana Jones and the Last Crusade",
+          "year": "1989",
+          "plot": "In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "imdbID": "tt0097576",
+          "rating": 5
+        },
+        {
+          "createdAt": "2025-11-23T16:56:57.906Z",
+          "title": "Jumanji",
+          "year": "1995",
+          "plot": "A magic board game summons jungle perils and a missing boy.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BYTFkMjFmODgtYzRiZi00NmQwLTliZWMtMzRhMWQ5ZmY3ZDExXkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
+          ],
+          "imdbID": "tt0113497",
+          "rating": 4
+        },
+        {
+          "createdAt": "2025-11-23T16:57:06.176Z",
+          "title": "Pluribus",
+          "year": "2025–",
+          "plot": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, the only person immune, must uncover what's really going on - and save humanity from its own bliss.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Drama",
+            "Sci-Fi"
+          ],
+          "imdbID": "tt22202452",
+          "rating": 5
+        },
+        {
+          "createdAt": "2025-11-23T16:57:13.262Z",
+          "title": "Severance",
+          "year": "2022–",
+          "plot": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+          ],
+          "imdbID": "tt11280740",
+          "rating": 2
+        },
+        {
+          "createdAt": "2025-11-23T16:57:34.546Z",
+          "title": "Back to the Future",
+          "year": "1985",
+          "plot": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "imdbID": "tt0088763",
+          "rating": 2
+        },
+        {
+          "createdAt": "2025-11-23T16:58:14.568Z",
+          "title": "Harry Potter and the Deathly Hallows: Part 2",
+          "year": "2011",
+          "plot": "As the battle between the forces of good and evil in the wizarding world escalates, Harry Potter draws ever closer to his final confrontation with Voldemort.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BOTA1Mzc2N2ItZWRiNS00MjQzLTlmZDQtMjU0NmY1YWRkMGQ4XkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+          ],
+          "imdbID": "tt1201607",
+          "rating": 2
+        },
+        {
+          "createdAt": "2025-11-23T16:58:26.122Z",
+          "title": "Sherlock",
+          "year": "2010–2017",
+          "plot": "The quirky spin on Conan Doyle's iconic sleuth pitches him as a \"high-functioning sociopath\" in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who's introduced to Holmes by a mutual acquai...",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+          ],
+          "imdbID": "tt1475582",
+          "rating": 1
+        },
+        {
+          "createdAt": "2025-11-23T16:58:32.229Z",
+          "title": "Bill & Ted's Excellent Adventure",
+          "year": "1989",
+          "plot": "Two rock-'n-rolling teens, on the verge of failing their class, set out on a quest to make the ultimate school history report after being presented with a time machine.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTk3Mjk5MzI3OF5BMl5BanBnXkFtZTcwMTY4MzcyNA@@._V1_SX300.jpg",
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Music"
+          ],
+          "imdbID": "tt0096928",
+          "rating": 4
+        },
+        {
+          "createdAt": "2025-11-23T16:58:37.192Z",
+          "title": "2001: A Space Odyssey",
+          "year": "1968",
+          "plot": "When a mysterious artifact is uncovered on the Moon, a spacecraft manned by two humans and one supercomputer is sent to Jupiter to find its origins.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNjU0NDFkMTQtZWY5OS00MmZhLTg3Y2QtZmJhMzMzMWYyYjc2XkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "imdbID": "tt0062622",
+          "rating": 5
+        },
+        {
+          "createdAt": "2025-11-23T16:58:43.988Z",
+          "title": "Star Wars: Episode IV - A New Hope",
+          "year": "1977",
+          "plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth ...",
+          "poster": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "imdbID": "tt0076759",
+          "rating": 4
+        },
+        {
+          "createdAt": "2025-11-23T16:59:12.240Z",
+          "title": "Bacurau",
+          "year": "2019",
+          "plot": "After the death of her grandmother, Teresa comes home to her matriarchal village in a near-future Brazil to find a succession of sinister events that mobilizes all of its residents.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMyOGQtODNiNy00YjIzLWFjNTAtMmY2Yjg3ZWJiY2YxXkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "imdbID": "tt2762506",
+          "rating": 3
+        },
+        {
+          "createdAt": "2025-11-23T16:59:51.666Z",
+          "title": "Cars",
+          "year": "2006",
+          "plot": "On the way to the biggest race of his life, a hotshot rookie race car gets stranded in a rundown town and learns that winning isn't everything in life.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_SX300.jpg",
+          "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+          ],
+          "imdbID": "tt0317219",
+          "rating": 5
+        },
+        {
+          "createdAt": "2025-11-23T16:59:56.268Z",
+          "title": "Cars 2",
+          "year": "2011",
+          "plot": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international e...",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1_SX300.jpg",
+          "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+          ],
+          "imdbID": "tt1216475",
+          "rating": 2
+        },
+        {
+          "createdAt": "2025-11-23T17:00:00.229Z",
+          "title": "Cars 3",
+          "year": "2017",
+          "plot": "Lightning McQueen sets out to prove to a new generation of racers that he's still the best race car in the world.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTc0NzU2OTYyN15BMl5BanBnXkFtZTgwMTkwOTg2MTI@._V1_SX300.jpg",
+          "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+          ],
+          "imdbID": "tt3606752",
+          "rating": 5
+        },
+        {
+          "createdAt": "2025-11-23T17:00:07.752Z",
+          "title": "Toy Story",
+          "year": "1995",
+          "plot": "A cowboy doll is profoundly jealous when a new spaceman action figure supplants him as the top toy in a boy's bedroom. When circumstances separate them from their owner, the duo have to put aside their differences to return to him.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+          ],
+          "imdbID": "tt0114709",
+          "rating": 5
+        },
+        {
+          "createdAt": "2025-11-23T17:00:14.795Z",
+          "title": "Toy Story 2",
+          "year": "1999",
+          "plot": "When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Prospector, and Bullseye.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNzVmODlhMDEtY2YxZi00OTVjLTlkNTktN2Q2OTRlM2I4M2FhXkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+          ],
+          "imdbID": "tt0120363",
+          "rating": 1
+        },
+        {
+          "createdAt": "2025-11-23T17:00:19.626Z",
+          "title": "Toy Story 3",
+          "year": "2010",
+          "plot": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX300.jpg",
+          "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+          ],
+          "imdbID": "tt0435761",
+          "rating": 5
+        },
+        {
+          "createdAt": "2025-11-23T17:00:24.349Z",
+          "title": "Toy Story 4",
+          "year": "2019",
+          "plot": "When a new toy called \"Forky\" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SX300.jpg",
+          "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+          ],
+          "imdbID": "tt1979376",
+          "rating": 5
+        }
+      ],
+      "currentStreak": 6,
+      "longestStreak": 6,
+      "experience": 6750,
+      "totalWatchedHours": 50.42000000000001,
+      "achievements": {
+        "byGenre": [
+          {
+            "title": "Adventure",
+            "description": "Watch Adventure movies",
+            "icon": "🎬",
+            "progress": 20
+          },
+          {
+            "title": "Fantasy",
+            "description": "Watch Fantasy movies",
+            "icon": "🎬",
+            "progress": 5
+          },
+          {
+            "title": "Musical",
+            "description": "Watch Musical movies",
+            "icon": "🎬",
+            "progress": 1
+          },
+          {
+            "title": "Romance",
+            "description": "Watch Romance movies",
+            "icon": "🎬",
+            "progress": 1
+          },
+          {
+            "title": "Drama",
+            "description": "Watch Drama movies",
+            "icon": "🎬",
+            "progress": 7
+          },
+          {
+            "title": "Action",
+            "description": "Watch Action movies",
+            "icon": "🎬",
+            "progress": 7
+          },
+          {
+            "title": "Comedy",
+            "description": "Watch Comedy movies",
+            "icon": "🎬",
+            "progress": 12
+          },
+          {
+            "title": "Sci-Fi",
+            "description": "Watch Sci-Fi movies",
+            "icon": "🎬",
+            "progress": 6
+          },
+          {
+            "title": "Animation",
+            "description": "Watch Animation movies",
+            "icon": "🎬",
+            "progress": 8
+          },
+          {
+            "title": "Family",
+            "description": "Watch Family movies",
+            "icon": "🎬",
+            "progress": 3
+          },
+          {
+            "title": "Crime",
+            "description": "Watch Crime movies",
+            "icon": "🎬",
+            "progress": 2
+          },
+          {
+            "title": "Mystery",
+            "description": "Watch Mystery movies",
+            "icon": "🎬",
+            "progress": 3
+          },
+          {
+            "title": "Music",
+            "description": "Watch Music movies",
+            "icon": "🎬",
+            "progress": 1
+          }
+        ],
+        "byStreak": [
+          {
+            "title": "5 Days Streak",
+            "description": "Watch 5 days in a row",
+            "icon": "🔥",
+            "isCompleted": true,
+            "target": 5
+          },
+          {
+            "title": "10 Days Streak",
+            "description": "Watch 10 days in a row",
+            "icon": "🔥",
+            "isCompleted": false,
+            "target": 10
+          },
+          {
+            "title": "20 Days Streak",
+            "description": "Watch 20 days in a row",
+            "icon": "🔥",
+            "isCompleted": false,
+            "target": 20
+          },
+          {
+            "title": "30 Days Streak",
+            "description": "Watch 30 days in a row",
+            "icon": "🔥",
+            "isCompleted": false,
+            "target": 30
+          }
+        ]
+      },
+      "username": "pedro",
+      "password": "123"
+    },
+    {
+      "id": "c812",
+      "movies": [
+        {
+          "createdAt": "2025-11-23T18:39:08.464Z",
+          "title": "Wicked",
+          "year": "2024",
+          "plot": "Elphaba, a young woman ridiculed for her green skin, and Galinda, a popular girl, become friends at Shiz University in the Land of Oz. After an encounter with the Wonderful Wizard of Oz, their friendship reaches a crossroads.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Fantasy",
+            "Musical",
+            "Romance"
+          ],
+          "imdbID": "tt1262426",
+          "rating": 5
+        }
+      ],
+      "currentStreak": 1,
+      "longestStreak": 1,
+      "experience": 250,
+      "totalWatchedHours": 2.67,
+      "achievements": {
+        "byGenre": [
+          {
+            "title": "Fantasy",
+            "description": "Watch Fantasy movies",
+            "icon": "🎬",
+            "progress": 1
+          },
+          {
+            "title": "Musical",
+            "description": "Watch Musical movies",
+            "icon": "🎬",
+            "progress": 1
+          },
+          {
+            "title": "Romance",
+            "description": "Watch Romance movies",
+            "icon": "🎬",
+            "progress": 1
+          }
+        ],
+        "byStreak": [
+          {
+            "title": "5 Days Streak",
+            "description": "Watch 5 days in a row",
+            "icon": "🔥",
+            "isCompleted": false,
+            "target": 5
+          },
+          {
+            "title": "10 Days Streak",
+            "description": "Watch 10 days in a row",
+            "icon": "🔥",
+            "isCompleted": false,
+            "target": 10
+          },
+          {
+            "title": "20 Days Streak",
+            "description": "Watch 20 days in a row",
+            "icon": "🔥",
+            "isCompleted": false,
+            "target": 20
+          },
+          {
+            "title": "30 Days Streak",
+            "description": "Watch 30 days in a row",
+            "icon": "🔥",
+            "isCompleted": false,
+            "target": 30
+          }
+        ]
+      },
+      "username": "synd",
+      "password": "123"
+    }
+  ]
+}

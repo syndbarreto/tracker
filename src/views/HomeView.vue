@@ -2,12 +2,15 @@
 import { computed } from 'vue'
 import { RouterLink } from 'vue-router'
 import { useAuthStore } from '@/stores/auth'
+
 import ProfileSummary from '@/components/ProfileSummary.vue'
 import MovieCard from '@/components/MovieCard.vue'
 
 const authStore = useAuthStore()
+
 const recentlyWatched = computed(() => {
-  const movies = authStore.user?.movies || []
+  const movies = authStore.user?.movies ?? []
+
   return movies.slice(-6).reverse()
 })
 </script>
@@ -33,6 +36,10 @@ const recentlyWatched = computed(() => {
           :imdbID="movie.imdbID"
         />
       </div>
+    </div>
+    <div v-else class="section">
+      <h2 class="section-title">You haven't watched any movies yet.</h2>
+      <RouterLink to="/movies/add" class="see-all-btn">Search for movies</RouterLink>
     </div>
   </div>
 </template>
@@ -64,8 +71,7 @@ const recentlyWatched = computed(() => {
 
 .see-all-btn {
   padding: 8px 16px;
-  background: var(--primary-color);
-  color: white;
+  color: var(--primary-text-color);
   text-decoration: none;
   border-radius: 4px;
   font-size: 0.9rem;

@@ -2,6 +2,7 @@
 import { EXPERIENCE_PER_LEVEL } from '@/const'
 import { useAuthStore } from '@/stores/auth'
 import { computed } from 'vue'
+
 const authStore = useAuthStore()
 
 const moviesCount = computed(() => authStore.user?.movies.length)
@@ -90,7 +91,7 @@ const streak = computed(() => authStore.user?.currentStreak)
 .progress-bar {
   width: 70%;
   height: 10px;
-  background: rgba(255, 255, 255, 0.1);
+  background: var(--progress-bar-background);
   border-radius: 5px;
 }
 

@@ -42,6 +42,8 @@ h6 {
   --error-border-color: rgba(255, 107, 107, 0.3);
 
   --transparent-border-color: rgba(255, 255, 255, 0.1);
+
+  --progress-bar-background: rgba(255, 255, 255, 0.1);
 }
 
 .gradient-text {

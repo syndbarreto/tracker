@@ -35,7 +35,6 @@ export class StatsUpdater {
 
     while (true) {
       const currentDateKey = this.getDateKey(currentDate)
-      console.log(currentDateKey)
 
       const movie = this.user.movies.find(
         (movie) => this.getDateKey(new Date(movie.createdAt)) === currentDateKey,

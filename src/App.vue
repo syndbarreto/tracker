@@ -1,7 +1,14 @@
 <script setup>
 import { useAuthStore } from '@/stores/auth'
+import { useRouter, RouterLink, RouterView } from 'vue-router'
 
+const router = useRouter()
 const authStore = useAuthStore()
+
+const onLogout = () => {
+  authStore.logout()
+  router.replace('/login')
+}
 </script>
 
 <template>
@@ -17,6 +24,7 @@ const authStore = useAuthStore()
         <RouterLink class="nav-link" active-class="active" to="/achievements">
           🏆 Achievements
         </RouterLink>
+        <div class="nav-link logout" @click="onLogout">Logout</div>
       </div>
     </nav>
 
@@ -79,5 +87,9 @@ nav {
   background: var(--primary-gradient);
   color: var(--primary-text-color);
   border-radius: 10px;
+}
+
+.nav-link.logout {
+  cursor: pointer;
 }
 </style>

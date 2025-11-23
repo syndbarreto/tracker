@@ -375,19 +375,33 @@
           ],
           "imdbID": "tt1979376",
           "rating": 5
+        },
+        {
+          "createdAt": "2025-11-23T20:26:36.813Z",
+          "title": "The Lion King",
+          "year": "1994",
+          "plot": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Animation",
+            "Adventure",
+            "Drama"
+          ],
+          "imdbID": "tt0110357",
+          "rating": 4
         }
       ],
       "currentStreak": 6,
       "longestStreak": 6,
-      "experience": 6750,
-      "totalWatchedHours": 50.42000000000001,
+      "experience": 7000,
+      "totalWatchedHours": 51.89000000000001,
       "achievements": {
         "byGenre": [
           {
             "title": "Adventure",
             "description": "Watch Adventure movies",
             "icon": "🎬",
-            "progress": 20
+            "progress": 21
           },
           {
             "title": "Fantasy",
@@ -411,7 +425,7 @@
             "title": "Drama",
             "description": "Watch Drama movies",
             "icon": "🎬",
-            "progress": 7
+            "progress": 8
           },
           {
             "title": "Action",
@@ -435,7 +449,7 @@
             "title": "Animation",
             "description": "Watch Animation movies",
             "icon": "🎬",
-            "progress": 8
+            "progress": 9
           },
           {
             "title": "Family",
@@ -512,6 +526,109 @@
           ],
           "imdbID": "tt1262426",
           "rating": 5
+        },
+        {
+          "createdAt": "2025-11-23T19:10:27.075Z",
+          "title": "Harry Potter and the Deathly Hallows: Part 2",
+          "year": "2011",
+          "plot": "As the battle between the forces of good and evil in the wizarding world escalates, Harry Potter draws ever closer to his final confrontation with Voldemort.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BOTA1Mzc2N2ItZWRiNS00MjQzLTlmZDQtMjU0NmY1YWRkMGQ4XkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+          ],
+          "imdbID": "tt1201607",
+          "rating": 2
+        }
+      ],
+      "currentStreak": 1,
+      "longestStreak": 1,
+      "experience": 500,
+      "totalWatchedHours": 4.84,
+      "achievements": {
+        "byGenre": [
+          {
+            "title": "Fantasy",
+            "description": "Watch Fantasy movies",
+            "icon": "🎬",
+            "progress": 2
+          },
+          {
+            "title": "Musical",
+            "description": "Watch Musical movies",
+            "icon": "🎬",
+            "progress": 1
+          },
+          {
+            "title": "Romance",
+            "description": "Watch Romance movies",
+            "icon": "🎬",
+            "progress": 1
+          },
+          {
+            "title": "Adventure",
+            "description": "Watch Adventure movies",
+            "icon": "🎬",
+            "progress": 1
+          },
+          {
+            "title": "Family",
+            "description": "Watch Family movies",
+            "icon": "🎬",
+            "progress": 1
+          }
+        ],
+        "byStreak": [
+          {
+            "title": "5 Days Streak",
+            "description": "Watch 5 days in a row",
+            "icon": "🔥",
+            "isCompleted": false,
+            "target": 5
+          },
+          {
+            "title": "10 Days Streak",
+            "description": "Watch 10 days in a row",
+            "icon": "🔥",
+            "isCompleted": false,
+            "target": 10
+          },
+          {
+            "title": "20 Days Streak",
+            "description": "Watch 20 days in a row",
+            "icon": "🔥",
+            "isCompleted": false,
+            "target": 20
+          },
+          {
+            "title": "30 Days Streak",
+            "description": "Watch 30 days in a row",
+            "icon": "🔥",
+            "isCompleted": false,
+            "target": 30
+          }
+        ]
+      },
+      "username": "synd",
+      "password": "123"
+    },
+    {
+      "id": "5c60",
+      "movies": [
+        {
+          "createdAt": "2025-11-23T19:21:10.246Z",
+          "title": "Wicked",
+          "year": "2024",
+          "plot": "Elphaba, a young woman ridiculed for her green skin, and Galinda, a popular girl, become friends at Shiz University in the Land of Oz. After an encounter with the Wonderful Wizard of Oz, their friendship reaches a crossroads.",
+          "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_SX300.jpg",
+          "genres": [
+            "Fantasy",
+            "Musical",
+            "Romance"
+          ],
+          "imdbID": "tt1262426",
+          "rating": 5
         }
       ],
       "currentStreak": 1,
@@ -570,7 +687,50 @@
           }
         ]
       },
-      "username": "synd",
+      "username": "jp",
+      "password": "123"
+    },
+    {
+      "id": "5b31",
+      "movies": [],
+      "currentStreak": 0,
+      "longestStreak": 0,
+      "experience": 0,
+      "totalWatchedHours": 0,
+      "achievements": {
+        "byGenre": [],
+        "byStreak": [
+          {
+            "title": "5 Days Streak",
+            "description": "Watch 5 days in a row",
+            "icon": "🔥",
+            "isCompleted": false,
+            "target": 5
+          },
+          {
+            "title": "10 Days Streak",
+            "description": "Watch 10 days in a row",
+            "icon": "🔥🔥🔥",
+            "isCompleted": false,
+            "target": 10
+          },
+          {
+            "title": "20 Days Streak",
+            "description": "Watch 20 days in a row",
+            "icon": "🎉🎉🎉",
+            "isCompleted": false,
+            "target": 20
+          },
+          {
+            "title": "30 Days Streak",
+            "description": "Watch 30 days in a row",
+            "icon": "🏆🏆🏆",
+            "isCompleted": false,
+            "target": 30
+          }
+        ]
+      },
+      "username": "luluzinha",
       "password": "123"
     }
   ]

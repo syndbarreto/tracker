@@ -26,6 +26,7 @@ async function onSearch() {
   rating.value = 0
   posterError.value = false
   isPosterLoading.value = true
+  movie.value = null
 
   try {
     movie.value = await API.searchMovie(search.value)

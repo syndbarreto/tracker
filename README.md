@@ -1,50 +1,78 @@
-# cinetracker
+# CineTracker
 
-This template should help get you started developing with Vue 3 in Vite.
+Aplicação front-end simples para acompanhar filmes assistidos, conquistas e estatísticas. Projeto de estudo construído com Vue 3, Pinia e Vite. Inclui uma API fake baseada em `json-server` para dados locais.
 
-## Recommended IDE Setup
+**Status:** Em desenvolvimento
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Tecnologias
 
-## Recommended Browser Setup
+- **Framework:** Vue 3
+- **Estado:** Pinia
+- **Roteamento:** Vue Router
+- **Build / Dev:** Vite
+- **Testes:** Vitest
+- **API fake:** json-server
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## Estrutura do projeto (resumida)
 
-## Customize configuration
+- `src/`: código fonte da aplicação
+- `src/components/`: componentes Vue reutilizáveis
+- `src/views/`: páginas/rotas da aplicação
+- `src/api/db.json`: banco de dados JSON usado pelo `json-server`
+- `src/stores/`: stores do Pinia
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Requisitos
 
-## Project Setup
+- Node.js (versão compatível com a chave `engines` no `package.json`).
+- npm ou yarn.
 
-```sh
+Recomenda-se usar Node 20 ou superior.
+
+## Instalação
+
+1. Clone o repositório:
+
+```bash
+git clone <URL_DO_REPOSITORIO>
+cd cinetracker
+```
+
+2. Instale as dependências:
+
+```bash
 npm install
+# ou
+yarn
 ```
 
-### Compile and Hot-Reload for Development
+## Scripts disponíveis
 
-```sh
+Os scripts definidos em `package.json` e seu propósito:
+
+- `dev`: inicia o servidor de desenvolvimento do Vite.
+- `build`: gera os arquivos de produção (build) com Vite.
+- `preview`: executa um servidor para pré-visualizar o build gerado.
+- `test:unit`: executa os testes unitários com Vitest.
+- `lint`: executa o ESLint e tenta corrigir problemas automaticamente.
+- `format`: formata o código na pasta `src/` com Prettier.
+- `api:start`: inicia um servidor `json-server` em `http://localhost:3001` usando `src/api/db.json`.
+
+### Como executar a aplicação localmente
+
+1. Iniciar a API fake (opcional, mas recomendada para testar dados locais):
+
+```bash
+npm run api:start
+# ou
+yarn api:start
+```
+
+2. Em outra aba/terminal, iniciar a aplicação em modo desenvolvimento:
+
+```bash
 npm run dev
+# ou
+yarn dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Após isso, abra `http://localhost:5173` (porta padrão do Vite) no navegador.

@@ -18,9 +18,7 @@ async function getUserByUsername(username) {
 }
 
 async function getUserById(userId) {
-  const response = await fetch(`http://localhost:3001/users/${userId}`, {
-    method: 'GET',
-  })
+  const response = await fetch(`http://localhost:3001/users/${userId}`)
 
   if (!response.ok) {
     throw new Error('Failed to get user by id')
@@ -89,9 +87,7 @@ async function getUserByAuth(username, password) {
 }
 
 async function searchMovie(name) {
-  const response = await fetch(`https://www.omdbapi.com/?apikey=${OMDB_API_KEY}&t=${name}`, {
-    method: 'GET',
-  })
+  const response = await fetch(`https://www.omdbapi.com/?apikey=${OMDB_API_KEY}&t=${name}`)
 
   if (!response.ok) {
     throw new Error('Failed to search movie')

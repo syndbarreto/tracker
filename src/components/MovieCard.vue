@@ -29,14 +29,14 @@ const props = defineProps({
   },
 })
 
-const posterError = ref(false)
+const isError = ref(false)
 
 function onPosterError() {
-  posterError.value = true
+  isError.value = true
 }
 
 const poster = computed(() => {
-  if (posterError.value || !props.poster) {
+  if (isError.value || !props.poster) {
     return PosterFallbackImage
   }
 
@@ -51,7 +51,7 @@ function onCardClick() {
 <template>
   <div>
     <div class="container" @click="onCardClick">
-      <img :src="poster" alt="Movie Poster" class="poster" @error="onPosterError" />
+      <img :src="poster" :alt="`movie poster for ${title}`" class="poster" @error="onPosterError" />
       <div class="details">
         <p class="title">{{ title }}</p>
         <div class="rating-year">
